@@ -3,7 +3,6 @@
 now新闻台,http://pull.scphsd.com/live/f13dc9147768789c2fdf7e62c6af19a2/playlist.m3u8
 珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8
 广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
-广东新闻,http://nclive.grtn.cn/xwpd/sd/live.m3u8
 动物世界 4K,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 翡翠台,http://pull.scphsd.com/live/7f4646afc32511ae043526245ff2d28e/playlist.m3u8
 恒河六爷的美味,https://tc-tct.douyucdn2.cn/dyliveflv3a/4933183rhTpKqFsu.flv?wsAuth=7d1b2cba0dc01748ddc0b0d654b55a93&token=web-h5-0-4933183-551c8c03b7a2faa4f799c73d75fd1b955798a412242ccaca&logo=0&expire=0&did=5d90b4e18b8b44a58ba7b91b7476f161&pt=2&st=0&origin=ws&mix=0&isp=
