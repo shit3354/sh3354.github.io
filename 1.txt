@@ -7,6 +7,5 @@ now新闻台,http://pull.scphsd.com/live/f13dc9147768789c2fdf7e62c6af19a2/playli
 动物世界 4K,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 翡翠台,http://pull.scphsd.com/live/7f4646afc32511ae043526245ff2d28e/playlist.m3u8
 恒河六爷的美味,https://tc-tct.douyucdn2.cn/dyliveflv3a/4933183rhTpKqFsu.flv?wsAuth=7d1b2cba0dc01748ddc0b0d654b55a93&token=web-h5-0-4933183-551c8c03b7a2faa4f799c73d75fd1b955798a412242ccaca&logo=0&expire=0&did=5d90b4e18b8b44a58ba7b91b7476f161&pt=2&st=0&origin=ws&mix=0&isp=
-野食小哥,https://tc-tct.douyucdn2.cn/dyliveflv1/1443964rQRpsoM9q.flv?wsAuth=3e331f63f66f53512ca1612ddecaa5f3&token=web-h5-0-1443964-6952b359bd3fb6f459177621bd23f1ea433837fcc26e5e73&logo=0&expire=0&did=01b560a610e34bc7abf6792199e7cafd&pt=2&st=0&origin=all&mix=0&isp=
 日本24news,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 CCTV13,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
