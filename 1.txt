@@ -1,10 +1,13 @@
-有线新闻,http://pull.scphsd.com/live/df4a965672d48edc80d6cacfb094c6c4/playlist.m3u8
-无线新闻,http://pull.scphsd.com/live/6df51c3767936a9d60e726f1ef485a40/playlist.m3u8
-now新闻台,http://pull.scphsd.com/live/f13dc9147768789c2fdf7e62c6af19a2/playlist.m3u8
+无线新闻,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1587427342~exp=1587513742~acl=/newslive/smil:mobile_inews.smil/*~hmac=6a376e8682d5623e440d813eab6c7bd03d2be58ebb4f95cb0c12b6bd620ae7c9#https://pl0-hls.live.huajiao.com/live_huajiao_v2/6cdb8dd7ca6da746a55e41f18ac2e8de/playlist.m3u8#http://www.liveviptv.xyz/tv/tvb.php
+有线新闻,https://pl0-hls.live.huajiao.com/live_huajiao_v2/23cb617d8f3be73313badbc585c6146c/playlist.m3u8
+有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
 珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8
 广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
+广州新闻,http://aplay.gztv.com/sec/xinwen.m3u8#http://stream.guihet.com/tv/116.php?id=011
 动物世界 4K,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-翡翠台,http://pull.scphsd.com/live/7f4646afc32511ae043526245ff2d28e/playlist.m3u8
 恒河六爷的美味,https://tc-tct.douyucdn2.cn/dyliveflv3a/4933183rhTpKqFsu.flv?wsAuth=7d1b2cba0dc01748ddc0b0d654b55a93&token=web-h5-0-4933183-551c8c03b7a2faa4f799c73d75fd1b955798a412242ccaca&logo=0&expire=0&did=5d90b4e18b8b44a58ba7b91b7476f161&pt=2&st=0&origin=ws&mix=0&isp=
 日本24news,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 CCTV13,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+1971,http://sh3354.xicp.net:8081/index.php?user/publicLink&fid=ed3eI9EnbL8-KP6PGwcmZvT3bafmwg62r5er5NsqHqRsP2akreYsaUYXCi2r6JYs6c_OXTigy5QoXtm9OJgkmVdXntl4a9oG3pamzr6G_CAcLL1mFSiLOeK-8dG-FMkkudmvq0XWnHDeh3mhkTPKJnWmOOizKheNfJaqTSAE&file_name=/1917.1080p.BD%E4%B8%AD%E8%8B%B1%E5%8F%8C%E5%AD%97%5B66%E5%BD%B1%E8%A7%86www.66Ys.Co%5D.mp4
+变身特工,http://sh3354.xicp.net:8081/index.php?user/publicLink&fid=5245jyAALuBL4g0orEY5Un1lqWPEqgRjNEF7BESH2-JsBDkLMH6xr1snnxfvfvYoWgxlanCcNGxAnHqT42iGOtXhgTXePtIBKB0Xyw-Lw4kzZEPF8d2sp9dBbUSjNkcarhTpTSV2TKKkKG-gajWTgoTG3eayEoGb5rKIkbc7dp5_0i-U4Y99XhcNc6Fo0q5MjwLnVMle&file_name=/%E5%8F%98%E8%BA%AB%E7%89%B9%E5%B7%A5.1080p.%E5%9B%BD%E7%B2%A4%E8%8B%B1%E4%B8%89%E8%AF%AD.BD%E4%B8%AD%E8%8B%B1%E5%8F%8C%E5%AD%97%5B66%E5%BD%B1%E8%A7%86www.66Ys.Co%5D.mp4
+未来的未来 ,http://sh3354.xicp.net:8081/index.php?user/publicLink&fid=b0c0mNLITQNEwq2WYCyp2LbBsTP8_4gpNnzootlXONFySFaoz0PWLGX_i-cFpzeGgGN1jG6szK0aenkHlnZsOZIVmAKjxyoTEPMNwTkdLrtmDp8IGjOtqWJZOMgxHBAM&file_name=/%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%20.mp4
